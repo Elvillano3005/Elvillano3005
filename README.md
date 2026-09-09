@@ -1,6 +1,6 @@
 ## Hi there 👋
 #soy Cristian Martínez
-#Ingeniero en Inteligencia Artificial | Python | Machine Learning | Data Science 
+Ingeniero en Inteligencia Artificial | Python | Machine Learning | Data Science 
 
 Soy Ingeniero en Inteligencia Artificial con interés en el desarrollo de soluciones basadas en datos, Machine Learning, Deep Learning.
 
@@ -8,19 +8,19 @@ Actualmente estoy enfocado en construir un portafolio técnico sólido y buscar 
 
 - Áreas de interés
 
--Inteligencia Artificial
+- Inteligencia Artificial
 
--Machine Learning
+- Machine Learning
 
--Deep Learning
+- Deep Learning
 
--Data Science
+- Data Science
 
--Computer Vision
+- Computer Vision
 
--Optimización Evolutiva
+- Optimización Evolutiva
 
--Desarrollo con Python
+- Desarrollo con Python
 
 - Contacto
 
